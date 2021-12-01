@@ -1,4 +1,6 @@
-O que È repositÛrio? 
-…  a pasta do projeto.
-O que È commit?
-… onde È feito o " empacotamento" de dados.
+# O que √© reposit√≥rio? 
+√â  a pasta do projeto.
+# O que √© commit?
+√â onde √© feito o " empacotamento" de dados.
+# O que branch?
+S√£o ramifica√ß√µes 
