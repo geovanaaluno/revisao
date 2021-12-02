@@ -10,5 +10,5 @@ São ramificações
 Quando se trabalha em repositório hospedado no github clona-se o repositório 
 para seu computador
 # o que é pull?
-É puchar o arquivo
+É puxar o arquivo
  
