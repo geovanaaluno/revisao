@@ -11,4 +11,5 @@ Quando se trabalha em repositório hospedado no github clona-se o repositório
 para seu computador
 # o que é pull?
 É puxar o arquivo
- 
+# o que é push?
+É empurar os arquivos
