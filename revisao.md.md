@@ -6,3 +6,9 @@
 São ramificações 
 # O que é marge?
 É a união de duas branch
+# O que é clone?
+Quando se trabalha em repositório hospedado no github clona-se o repositório 
+para seu computador
+# o que é pull?
+É puchar o arquivo
+ 
